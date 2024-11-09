@@ -77,7 +77,10 @@ PLACES:
 - path to town
 	*near the town
 - raccoon's family tree stump
-- aunty possum's
+	*near aunty opossum
+- aunty opossum's bush hole
+	*near raccoon tree stump
+
 
 - the beaver burroughs
 	*near the creek/river
