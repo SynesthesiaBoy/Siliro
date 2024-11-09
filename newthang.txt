@@ -58,5 +58,25 @@ ROLL = CONVINCE THE SQUIRREL TO GO =
 					
 						***
 
-the squirrel is part of the crew now. the raccoon the possum and the squirrel
+the squirrel is part of the crew now. the raccoon the possum and the squirrel set off towards the town. 
+Looking for the stick the raccoon mentioned before.
+
+						***
+PLACES:
+- base of mountain
+
+- old mine
+	*near the town
+- the town
+	*near old mine
+	*near the path to town
+- the great pine
+	*middle of forest
+- path to town
+	*near the town
+- the beaver burroughs
+	*near the creek/river
+- the creek/river
+	*near beaver burroughs
+
 
