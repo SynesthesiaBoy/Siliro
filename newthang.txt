@@ -31,7 +31,7 @@ of age raccoons go out and start finding items to impress their mate-crush.
 						***
 
 Atop a great pine tree the three friends met at twilight. the town next to the mountain glittered a little with lanterns
-in the distance. Two moons peaked behind the mountains. 
+in the distance. Two moons peaked behind the mountains. 3 young furry animals talked on a large branch
 
 OPOSSUM: " So you're really going to go into town?"
 
@@ -58,11 +58,12 @@ ROLL = CONVINCE THE SQUIRREL TO GO =
 					
 						***
 
-the squirrel is part of the crew now. the raccoon the possum and the squirrel set off towards the town. 
+the squirrel is part of the crew now OR not. the raccoon the possum and maybe the squirrel set off towards the town. 
 Looking for the stick the raccoon mentioned before.
 
 						***
 PLACES:
+
 - base of mountain
 	*near old mine
 	*near the town
@@ -71,6 +72,7 @@ PLACES:
 - the town
 	*near old mine
 	*near the path to town
+
 
 - the great pine
 	*middle of forest
@@ -87,4 +89,6 @@ PLACES:
 - the creek/river
 	*near beaver burroughs
 
-
+- the desert
+	* beyond the forest
+	* coyote-tick monster
