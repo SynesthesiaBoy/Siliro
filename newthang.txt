@@ -33,14 +33,14 @@ of age raccoons go out and start finding items to impress their mate-crush.
 Atop a great pine tree the three friends met at twilight. the town next to the mountain glittered a little with lanterns
 in the distance. Two moons peaked behind the mountains. 
 
-POSSUM: " So you're really going to go into town?"
+OPOSSUM: " So you're really going to go into town?"
 
 RACCOON: " Yea, and I was hoping you two come with me..." "I asked my uncle, he says its not against the rules.
 Just that I have to be the one to acquire it."
 
 SQUIRREL:"...*yawn*, i usually start sleep though..."
 
-POSSUM: " Oh come on you have to go with us SQUIRREL"
+OPOSSUM: " Oh come on you have to go with us SQUIRREL"
 RACCOON: " Plus I have an extra insentive!"
 
 ***Reveals some honey wrapped in a leaf***
@@ -64,16 +64,21 @@ Looking for the stick the raccoon mentioned before.
 						***
 PLACES:
 - base of mountain
-
+	*near old mine
+	*near the town
 - old mine
 	*near the town
 - the town
 	*near old mine
 	*near the path to town
+
 - the great pine
 	*middle of forest
 - path to town
 	*near the town
+- raccoon's family tree stump
+- aunty possum's
+
 - the beaver burroughs
 	*near the creek/river
 - the creek/river
